@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hotel/attraction_card.dart';
-import 'package:flutter_hotel/attractions_list.dart';
-import 'package:flutter_hotel/splash_page.dart';
-
-import 'attraction.dart';
-import 'bottom_bar_widget.dart';
+import 'package:flutter_hotel/pages/attraction_card.dart';
+import 'package:flutter_hotel/pages/attractions_list.dart';
+import 'package:flutter_hotel/pages/splash_page.dart';
+import 'package:flutter_hotel/pages/attraction.dart';
+import 'package:flutter_hotel/pages/widgests/bottom_bar_widget.dart';
 
 class ListPage extends StatelessWidget {
   const ListPage({Key? key}) : super(key: key);

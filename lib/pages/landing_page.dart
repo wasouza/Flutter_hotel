@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hotel/drawer_list.dart';
-import 'package:flutter_hotel/splash_page.dart';
+import 'package:flutter_hotel/pages/widgests/drawer_list.dart';
+import 'package:flutter_hotel/pages/splash_page.dart';
 import 'landing_search_bar.dart';
 
 class LandingPage extends StatelessWidget {

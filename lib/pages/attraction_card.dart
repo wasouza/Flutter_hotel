@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hotel/rating_widget.dart';
-import 'package:flutter_hotel/splash_page.dart';
+import 'package:flutter_hotel/pages/widgests/rating_widget.dart';
+import 'package:flutter_hotel/pages/splash_page.dart';
 import 'attraction.dart';
 
 class AttractionCard extends StatelessWidget {

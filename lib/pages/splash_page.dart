@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hotel/landing_page.dart';
+import 'package:flutter_hotel/pages/landing_page.dart';
 
 const Color mainThemeColor = Color(0xFF272D8D);
 

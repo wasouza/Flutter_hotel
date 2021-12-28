@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'bottom_bar_item.dart';
+import 'package:flutter_hotel/pages/bottom_bar_item.dart';
 
 final List<BottomBarItem> barItemsList = [
   BottomBarItem(label: 'Home', isSelected: true, icon: Icons.home),

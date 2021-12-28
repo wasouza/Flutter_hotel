@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hotel/list_page.dart';
-import 'package:flutter_hotel/splash_page.dart';
+import 'package:flutter_hotel/pages/list_page.dart';
+import 'package:flutter_hotel/pages/splash_page.dart';
 
 class LandingSearchBar extends StatelessWidget {
   const LandingSearchBar({Key? key}) : super(key: key);

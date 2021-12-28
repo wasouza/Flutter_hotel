@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hotel/bar_items_list.dart';
-import 'package:flutter_hotel/bottom_bar_item.dart';
-import 'package:flutter_hotel/splash_page.dart';
+import 'package:flutter_hotel/pages/bar_items_list.dart';
+import 'package:flutter_hotel/pages/bottom_bar_item.dart';
+import 'package:flutter_hotel/pages/splash_page.dart';
 
 class BottomBarWidget extends StatefulWidget {
   const BottomBarWidget({Key? key}) : super(key: key);

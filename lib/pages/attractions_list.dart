@@ -1,4 +1,4 @@
-import 'attraction.dart';
+import 'package:flutter_hotel/pages/attraction.dart';
 
 final List<Attraction> attractionsList = [
   Attraction(
